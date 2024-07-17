@@ -14,4 +14,4 @@ You can
 - get a random cocktail;
 
 
-GitHubPages: 
+GitHubPages: https://juliaavramenko.github.io/vue-cocktails-app/
