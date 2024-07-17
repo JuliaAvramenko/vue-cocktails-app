@@ -5,6 +5,7 @@ The project is made according to the video series: https://www.youtube.com/watch
 Stack used: 
 - Pinia
 - Vue Router
+- Sass
 - framework Element Plus
 
 You can 
